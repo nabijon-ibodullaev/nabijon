@@ -1,6 +1,7 @@
 <h1 align="center">
    Hi there 👋, My name is Nabijon
    <h3>
+      <hr>
 <p align="center"> 
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Patua+One&color=FF6F61&size=35&width=445&height=70&lines=I+'m++Frontend+Developer;I+'+m++Web+App+Developer;I+'+m+Web+Designer"></a>
 
@@ -19,8 +20,7 @@ Skills: HTML / CSS / Bootstrap / Javascript / Sass / Scss / Less / Typescript / 
     <a href="#"><img alt="Angular" height="20" src="https://img.shields.io/badge/Angular-D00000.svg?logo=angular&logoColor=black"></a>
     <a href="#"><img alt="GitHub Actions" height="20" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
     <a href="#"><img alt="Git" height="20" src="https://img.shields.io/badge/Git-D00000.svg?logo=git&logoColor=white"></a>
-
-
+   
 </p>
         <p align="center"> 
      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nabijon2001"></a>
