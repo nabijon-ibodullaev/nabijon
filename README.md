@@ -8,21 +8,6 @@
 
 ![I am Frontend Developer](https://raw.githubusercontent.com/Nabijon2001/Nabijon2001/main/header2.png)
 Skills: HTML / CSS / Bootstrap / Javascript / Sass / Scss / Less / Typescript / Angular
-
-- 🔭 I’m currently working on Netschool 
-- 🌱 I’m currently learning Angular , Node js  
-
-<br>
-![](https://komarev.com/ghpvc/?username=nabijon2001&color=dc143c)
-
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabijon2001&show_icons=true&theme=radical)
-
-<br>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabijon2001&langs_count=8)](https://github.com/nabijon2001/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nabijon2001)](https://git.io/streak-stats)
 <p>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Html-00979D?logo=html&logoColor=orange"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
@@ -36,6 +21,19 @@ Skills: HTML / CSS / Bootstrap / Javascript / Sass / Scss / Less / Typescript / 
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-D00000.svg?logo=git&logoColor=white"></a>
 
 </p>
+- 🔭 I’m currently working on Netschool 
+- 🌱 I’m currently learning Angular , Node js  
+<br>
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabijon2001&show_icons=true&theme=radical)
+
+<br>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabijon2001&langs_count=8)](https://github.com/nabijon2001/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nabijon2001)](https://git.io/streak-stats)
+
 
 
 
