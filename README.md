@@ -39,8 +39,8 @@ Skills: HTML / CSS / Bootstrap / Javascript / Sass / Scss / Less / Typescript / 
      <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabijon2001&langs_count=8)](https://github.com/nabijon2001/github-readme-stats"></a>
   </p>
       
-      <br>
-      <br>
+<br>
+ <br>
 
    <p align="center"> 
      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nabijon2001"></a>
