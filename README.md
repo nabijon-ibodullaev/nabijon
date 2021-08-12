@@ -22,6 +22,16 @@ Skills: HTML / CSS / Bootstrap / Javascript / Sass / Scss / Less / Typescript / 
 
 
 </p>
+        <p align="center"> 
+     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nabijon2001"></a>
+  </p>
+<br>
+<br>
+ <p align="center">
+  <a href="mailto:ibodullayevnabijon5@gmail.com"><img alt="Gmail" height="30" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/nabijon-ibodullayev-76643b204/"> <img alt="Linkedin" height="30" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white"></a>     
+    <a href="https://t.me/Nabijon_Ibodullayev"><img alt="Angular" height="30" src="https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white"></a>
+  </p>
 - 🔭 I’m currently working on Netschool 
       <br>
 - 🌱 I’m currently learning Angular , Node js  
@@ -42,19 +52,8 @@ Skills: HTML / CSS / Bootstrap / Javascript / Sass / Scss / Less / Typescript / 
 <br>
  <br>
 
-   <p align="center"> 
-     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nabijon2001"></a>
-  </p>
-<br>
-<br>
- <p align="center">
-  <a href="mailto:ibodullayevnabijon5@gmail.com"><img alt="Gmail" height="30" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/nabijon-ibodullayev-76643b204/"> <img alt="Linkedin" height="30" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white"></a>     
-    <a href="https://t.me/Nabijon_Ibodullayev"><img alt="Angular" height="30" src="https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white"></a>
-  </p>
+ 
 
 
 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nabijon2001)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/nabijon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](@nabijonDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nabijon-ibodullayev-76643b204/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nabijon.ibodullayev.39)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nabijon.i/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Nabijon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15152372)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/nabijonibodullayev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://nabijonibodullayev.netlify.app/)
