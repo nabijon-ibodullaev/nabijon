@@ -10,8 +10,8 @@
 Skills: HTML / CSS / Bootstrap / Javascript / Sass / Scss / Less / Typescript / Angular
 <p>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Html-00979D?logo=html&logoColor=orange"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="css" src="https://img.shields.io/badge/-Css-E8E8E8?logo=css&logoColor=black"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="sass" src="https://img.shields.io/badge/Sass-20232e.svg?logo=sass&logoColor=white"></a>
     <a href="#"><img alt="less" src="https://img.shields.io/badge/Less-404d59.svg?logo=less&logoColor=white"></a>
     <a href="#"><img alt="javascript" src="https://img.shields.io/badge/Javascript-02569B.svg?logo=javascript&logoColor=white"></a>
@@ -19,6 +19,7 @@ Skills: HTML / CSS / Bootstrap / Javascript / Sass / Scss / Less / Typescript / 
     <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-25A162.svg?logo=angular&logoColor=white"></a>
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-D00000.svg?logo=git&logoColor=white"></a>
+
 
 </p>
 - 🔭 I’m currently working on Netschool 
