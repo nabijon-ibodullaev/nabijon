@@ -1,6 +1,7 @@
 ### Hi there 👋, My name is Nabijon
 <p align="center"> 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Patua+One&color=FF6F61&size=35&width=445&height=70&lines=I+'m++Frontend+Developer;I+'+m++Web+App+Developer;I+'+m+Web+Designer)](https://git.io/typing-svg)
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Patua+One&color=FF6F61&size=35&width=445&height=70&lines=I+'m++Frontend+Developer;I+'+m++Web+App+Developer;I+'+m+Web+Designer"></a>
+
 </p>
 
 ![I am Frontend Developer](https://raw.githubusercontent.com/Nabijon2001/Nabijon2001/main/banner.png)
