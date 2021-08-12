@@ -1,4 +1,4 @@
-<h3 align="center">
+<h1 align="center">
    Hi there 👋, My name is Nabijon
    <h3>
 <p align="center"> 
