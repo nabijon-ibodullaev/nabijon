@@ -1,7 +1,7 @@
 <h1 align="center">
    Hi there 👋, My name is Nabijon
    <h3>
-      <hr>
+
 <p align="center"> 
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Patua+One&color=FF6F61&size=35&width=445&height=70&lines=I+'m++Frontend+Developer;I+'+m++Web+App+Developer;I+'+m+Web+Designer"></a>
 
@@ -22,16 +22,18 @@ Skills: HTML / CSS / Bootstrap / Javascript / Sass / Scss / Less / Typescript / 
     <a href="#"><img alt="Git" height="20" src="https://img.shields.io/badge/Git-D00000.svg?logo=git&logoColor=white"></a>
    
 </p>
+       <p align="center">
+  <a href="mailto:ibodullayevnabijon5@gmail.com"><img alt="Gmail" height="30" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/nabijon-ibodullayev-76643b204/"> <img alt="Linkedin" height="30" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white"></a>     
+    <a href="https://t.me/Nabijon_Ibodullayev"><img alt="Angular" height="30" src="https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white"></a>
+  </p>
+      
         <p align="center"> 
      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nabijon2001"></a>
   </p>
 <br>
 <br>
- <p align="center">
-  <a href="mailto:ibodullayevnabijon5@gmail.com"><img alt="Gmail" height="30" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/nabijon-ibodullayev-76643b204/"> <img alt="Linkedin" height="30" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white"></a>     
-    <a href="https://t.me/Nabijon_Ibodullayev"><img alt="Angular" height="30" src="https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white"></a>
-  </p>
+
 - 🔭 I’m currently working on Netschool 
       <br>
 - 🌱 I’m currently learning Angular , Node js  
