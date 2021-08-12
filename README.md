@@ -5,6 +5,7 @@ Skills: HTML / CSS / Bootstrap / Javascript / Sass / Scss / Less / Typescript / 
 
 - 🔭 I’m currently working on Netschool 
 - 🌱 I’m currently learning Angular , Node js  
+![](https://komarev.com/ghpvc/?username=nabijon2001&color=dc143c)
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabijon2001&show_icons=true&theme=radical)
 
