@@ -9,16 +9,16 @@
 ![I am Frontend Developer](https://raw.githubusercontent.com/Nabijon2001/Nabijon2001/main/header2.png)
 Skills: HTML / CSS / Bootstrap / Javascript / Sass / Scss / Less / Typescript / Angular
 <p>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Html-00979D?logo=html&logoColor=orange"></a>
-    <a href="#"><img alt="css" src="https://img.shields.io/badge/-Css-E8E8E8?logo=css&logoColor=black"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=blue"></a>
-    <a href="#"><img alt="sass" src="https://img.shields.io/badge/Sass-20232e.svg?logo=sass&logoColor=orange"></a>
-    <a href="#"><img alt="less" src="https://img.shields.io/badge/Less-404d59.svg?logo=less&logoColor=orange"></a>
-    <a href="#"><img alt="javascript" src="https://img.shields.io/badge/Javascript-02569B.svg?logo=javascript&logoColor=yellow"></a>
-    <a href=""> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>     
-    <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-25A162.svg?logo=angular&logoColor=black"></a>
-    <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-D00000.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="HTML" height="20" src="https://img.shields.io/badge/Html-00979D?logo=html&logoColor=orange"></a>
+    <a href="#"><img alt="css" height="20" src="https://img.shields.io/badge/-Css-E8E8E8?logo=css&logoColor=black"></a>
+    <a href="#"><img alt="Bootstrap" height="20" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=blue"></a>
+    <a href="#"><img alt="sass" height="20" src="https://img.shields.io/badge/Sass-20232e.svg?logo=sass&logoColor=orange"></a>
+    <a href="#"><img alt="less" height="20" src="https://img.shields.io/badge/Less-404d59.svg?logo=less&logoColor=orange"></a>
+    <a href="#"><img alt="javascript" height="20" src="https://img.shields.io/badge/Javascript-02569B.svg?logo=javascript&logoColor=yellow"></a>
+    <a href=""> <img alt="TypeScript" height="20" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>     
+    <a href="#"><img alt="Angular" height="20" src="https://img.shields.io/badge/Angular-D00000.svg?logo=angular&logoColor=black"></a>
+    <a href="#"><img alt="GitHub Actions" height="20" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
+    <a href="#"><img alt="Git" height="20" src="https://img.shields.io/badge/Git-D00000.svg?logo=git&logoColor=white"></a>
 
 
 </p>
