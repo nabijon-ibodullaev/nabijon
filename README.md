@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Nabijon
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Patua+One&color=FF6F61&size=35&center=true&width=445&height=70&lines=I+'m++Frontend+Developer;I+'+m++Web+App+Developer;I+'+m+Web+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Patua+One&color=FF6F61&size=35&width=445&height=70&lines=I+'m++Frontend+Developer;I+'+m++Web+App+Developer;I+'+m+Web+Designer)](https://git.io/typing-svg)
 ![I am Frontend Developer](https://raw.githubusercontent.com/Nabijon2001/Nabijon2001/main/banner.png)
 Skills: HTML / CSS / Bootstrap / Javascript / Sass / Scss / Less / Typescript / Angular
 
