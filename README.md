@@ -28,9 +28,12 @@ Skills: HTML / CSS / Bootstrap / Javascript / Sass / Scss / Less / Typescript / 
     <a href="https://t.me/Nabijon_Ibodullayev"><img alt="Angular" height="30" src="https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white"></a>
   </p>
       
+      
         <p align="center"> 
             <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nabijon2001"></a>
        </p>
+      
+      
 <br>
 <br>
 
