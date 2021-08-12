@@ -25,24 +25,20 @@ Skills: HTML / CSS / Bootstrap / Javascript / Sass / Scss / Less / Typescript / 
 - 🔭 I’m currently working on Netschool 
       <br>
 - 🌱 I’m currently learning Angular , Node js  
+<br>  
+<br>      
 <br>
-      
-<br>
-      
-<br>
-   
-      
+       
   <p align="center"> 
    <a href=""><img src="https://github-readme-stats.vercel.app/api?username=nabijon2001&show_icons=true&theme=radical"></a>
-
-</p>
-
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabijon2001&show_icons=true&theme=radical)
+  </p>
 
 <br>
 
+   <p align="center"> 
+     <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabijon2001&langs_count=8)](https://github.com/nabijon2001/github-readme-stats"></a>
+  </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabijon2001&langs_count=8)](https://github.com/nabijon2001/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nabijon2001)](https://git.io/streak-stats)
 
