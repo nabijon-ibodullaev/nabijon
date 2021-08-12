@@ -31,7 +31,7 @@ Skills: HTML / CSS / Bootstrap / Javascript / Sass / Scss / Less / Typescript / 
     <a href="#"><img alt="less" src="https://img.shields.io/badge/Less-404d59.svg?logo=less&logoColor=white"></a>
     <a href="#"><img alt="javascript" src="https://img.shields.io/badge/Javascript-02569B.svg?logo=javascript&logoColor=white"></a>
   
-    <a href="#"><img alt="typescript" src="https://img.shields.io/badge/Typescript-C21325.svg?logo=typescript&logoColor=white"></a>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
     <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-25A162.svg?logo=angular&logoColor=white"></a>
      <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-D00000.svg?logo=git&logoColor=white"></a>
