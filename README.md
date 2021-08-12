@@ -3,6 +3,8 @@
 ![I am Frontend Developer](https://raw.githubusercontent.com/Nabijon2001/Nabijon2001/main/banner.png)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabijon2001&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabijon2001&layout=compact)](https://github.com/nabijon2001/github-readme-stats)
+
 
 Skills: HTML / CSS / Bootstrap / Javascript / Sass / Scss / Less / Typescript / Angular
 
