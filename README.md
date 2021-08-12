@@ -15,8 +15,7 @@
       <br>
 - 🌱 I’m currently learning Angular , Node js  
 <br>  
-
-      Skills: HTML / CSS / Bootstrap / Javascript / Sass / Scss / Less / Typescript / Angular
+    Skills: HTML / CSS / Bootstrap / Javascript / Sass / Scss / Less / Typescript / Angular
 <br>
 <br>
 
