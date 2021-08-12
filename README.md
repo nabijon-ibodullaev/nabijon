@@ -6,7 +6,7 @@
 
 </p>
 
-![I am Frontend Developer](https://raw.githubusercontent.com/Nabijon2001/Nabijon2001/main/banner.png)
+![I am Frontend Developer](https://raw.githubusercontent.com/Nabijon2001/Nabijon2001/main/header2.png)
 Skills: HTML / CSS / Bootstrap / Javascript / Sass / Scss / Less / Typescript / Angular
 
 - 🔭 I’m currently working on Netschool 
