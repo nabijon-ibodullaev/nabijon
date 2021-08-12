@@ -9,6 +9,13 @@
 
 ![I am Frontend Developer](https://raw.githubusercontent.com/Nabijon2001/Nabijon2001/main/header2.png)
       <br>
+      
+      <br>
+
+- 🔭 I’m currently working on Netschool 
+      <br>
+- 🌱 I’m currently learning Angular , Node js  
+<br>  
 Skills: HTML / CSS / Bootstrap / Javascript / Sass / Scss / Less / Typescript / Angular
 <p align="center">
     <a href="#"><img alt="HTML" height="20" src="https://img.shields.io/badge/Html-00979D?logo=html&logoColor=orange"></a>
@@ -32,12 +39,7 @@ Skills: HTML / CSS / Bootstrap / Javascript / Sass / Scss / Less / Typescript / 
       
     
 <br>
-<br>
 
-- 🔭 I’m currently working on Netschool 
-      <br>
-- 🌱 I’m currently learning Angular , Node js  
-<br>  
 <br>      
 <br>
        
