@@ -45,6 +45,16 @@ Skills: HTML / CSS / Bootstrap / Javascript / Sass / Scss / Less / Typescript / 
    <p align="center"> 
      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nabijon2001"></a>
   </p>
+<br>
+<br>
+      
+      <p align="center">
+         <a target="_blank" href="https://nabijonibodullayev.netlify.app/"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>
+      <a target="_blank" href="https://www.linkedin.com/in/nabijon-ibodullayev-76643b204/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+      <a target="_blank" href="mailto:ibodullayevnabijon5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+ 
+      
+      </p>
 
 
 
