@@ -23,52 +23,20 @@ Skills: HTML / CSS / Bootstrap / Javascript / Sass / Scss / Less / Typescript / 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabijon2001&langs_count=8)](https://github.com/nabijon2001/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nabijon2001)](https://git.io/streak-stats)
+<p>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Html-00979D?logo=html&logoColor=orange"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="css" src="https://img.shields.io/badge/-Css-E8E8E8?logo=css&logoColor=black"></a>
+    <a href="#"><img alt="sass" src="https://img.shields.io/badge/Sass-20232e.svg?logo=sass&logoColor=white"></a>
+    <a href="#"><img alt="less" src="https://img.shields.io/badge/Less-404d59.svg?logo=less&logoColor=white"></a>
+    <a href="#"><img alt="javascript" src="https://img.shields.io/badge/Javascript-02569B.svg?logo=javascript&logoColor=white"></a>
+  
+    <a href="#"><img alt="typescript" src="https://img.shields.io/badge/Typescript-C21325.svg?logo=typescript&logoColor=white"></a>
+    <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-25A162.svg?logo=angular&logoColor=white"></a>
+     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-D00000.svg?logo=git&logoColor=white"></a>
 
-      <p> 
-         <a href=""><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></a>
-         
-         <a href=""> 
-<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
-         
-         </a>
-         <a href="">
-<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
-         
-         </a>
-         <a href="">
-<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
-         
-         </a>
-         <a href="">
-<img src="https://img.shields.io/badge/Jquery-282C34?logo=jquery&logoColor=3DDC84" alt="" title="Jquery" height="25" />
-         
-         </a>
-         <a href="">
-<img src="https://img.shields.io/badge/Angular Native-282C34?logo=angular&logoColor=61DAFB" alt="" title="Angular" height="25" />
-         
-         </a>
-         <a href="">
-<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=764ABC" alt="" title="Sass" height="25" />
-         
-         </a>
-         <a href="">
-<img src="https://img.shields.io/badge/Less-282C34?logo=less&logoColor=4B32C3" alt="" title="Less" height="25" />
-         
-         </a>
-         <a href="">
-<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
-         
-         </a>
-         <a href="">
-         
-         </a>
-         <a href="">
-         
-         </a>
-         <a href="">
-         
-         </a>
-      </p>
+</p>
 
 
 
