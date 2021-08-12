@@ -47,14 +47,17 @@ Skills: HTML / CSS / Bootstrap / Javascript / Sass / Scss / Less / Typescript / 
   </p>
 <br>
 <br>
-      
-      <p align="center">
-      [![Gmail Badge](https://img.shields.io/badge/-sdey9@uic.edu-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ibodullayevnabijon5@gmail.com"Connect via Email")
-      [![Linkedin Badge](https://img.shields.io/badge/-Samujjwaal%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/nabijon-ibodullayev-76643b204/ "Connect on LinkedIn")
-      [![Telegram Badge](https://img.shields.io/badge/-@daftdey-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/@Nabijon_Ibodullayev "Contact on Telegram")
-     
-     
-      </p>
+ <p align="center">
+ [![Gmail Badge](https://img.shields.io/badge/-sdey9@uic.edu-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ibodullayevnabijon5@gmail.com"Connect via Email")
+ [![Linkedin Badge](https://img.shields.io/badge/-Samujjwaal%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/nabijon-ibodullayev-76643b204/ "Connect on LinkedIn")
+ [![Telegram Badge](https://img.shields.io/badge/-@daftdey-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/@Nabijon_Ibodullayev "Contact on Telegram")
+
+  <a href="mailto:ibodullayevnabijon5@gmail.com"><img alt="less" height="20" src="https://img.shields.io/badge/-sdey9@uic.edu-c14438?style=flat&logo=Gmail&logoColor=white"></a>
+    <a href=""><img alt="javascript" height="20" src="https://img.shields.io/badge/-Samujjwaal%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/nabijon-ibodullayev-76643b204/"> <img alt="TypeScript" height="20" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>     
+    <a href="https://t.me/@Nabijon_Ibodullayev"><img alt="Angular" height="20" src="https://img.shields.io/badge/-@daftdey-0088CC?style=flat&logo=Telegram&logoColor=white"></a>
+    
+  </p>
 
 
 
