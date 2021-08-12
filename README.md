@@ -29,8 +29,8 @@ Skills: HTML / CSS / Bootstrap / Javascript / Sass / Scss / Less / Typescript / 
   </p>
       
         <p align="center"> 
-     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nabijon2001"></a>
-  </p>
+            <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nabijon2001"></a>
+       </p>
 <br>
 <br>
 
