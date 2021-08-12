@@ -48,9 +48,9 @@ Skills: HTML / CSS / Bootstrap / Javascript / Sass / Scss / Less / Typescript / 
 <br>
 <br>
  <p align="center">
-  <a href="mailto:ibodullayevnabijon5@gmail.com"><img alt="Gmail" height="20" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/nabijon-ibodullayev-76643b204/"> <img alt="Linkedin" height="20" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white"></a>     
-    <a href="https://t.me/Nabijon_Ibodullayev"><img alt="Angular" height="20" src="https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white"></a>
+  <a href="mailto:ibodullayevnabijon5@gmail.com"><img alt="Gmail" height="30" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/nabijon-ibodullayev-76643b204/"> <img alt="Linkedin" height="30" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white"></a>     
+    <a href="https://t.me/Nabijon_Ibodullayev"><img alt="Angular" height="30" src="https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white"></a>
   </p>
 
 
