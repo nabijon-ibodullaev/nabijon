@@ -17,9 +17,10 @@
 <br>  
 
       Skills: HTML / CSS / Bootstrap / Javascript / Sass / Scss / Less / Typescript / Angular
-<br><br>
+<br>
+<br>
 
-      <p align="center">
+<p align="center">
     <a href="#"><img alt="HTML" height="20" src="https://img.shields.io/badge/Html-00979D?logo=html&logoColor=orange"></a>
     <a href="#"><img alt="css" height="20" src="https://img.shields.io/badge/-Css-E8E8E8?logo=css&logoColor=black"></a>
     <a href="#"><img alt="Bootstrap" height="20" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=blue"></a>
