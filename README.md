@@ -23,7 +23,12 @@ Skills: HTML / CSS / Bootstrap / Javascript / Sass / Scss / Less / Typescript / 
 
 </p>
 - 🔭 I’m currently working on Netschool 
+      <br>
 - 🌱 I’m currently learning Angular , Node js  
+<br>
+      
+<br>
+      
 <br>
    
       
