@@ -13,7 +13,7 @@ Skills: HTML / CSS / Bootstrap / Javascript / Sass / Scss / Less / Typescript / 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabijon2001&langs_count=8)](https://github.com/nabijon2001/github-readme-stats)
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nabijon2001)](https://git.io/streak-stats)
 
 
 
